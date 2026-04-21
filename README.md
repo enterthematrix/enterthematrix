@@ -8,16 +8,16 @@ I am an **outcome-focused Solutions Architect** and **Customer Success leader** 
 
 | Category | Tools |
 | :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) |
-| **Data & Analytics** | ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white) ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white) |
-| **Cloud & Infra** | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) |
-| **Development** | ![Nvim](https://img.shields.io/badge/NeoVim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Shell](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Shell](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) |
+| **Data Platforms** | ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white) ![StreamSets](https://img.shields.io/badge/StreamSets-00AEEF?style=for-the-badge&logo=streamsets&logoColor=white) ![Hadoop](https://img.shields.io/badge/Hadoop-FFFF00?style=for-the-badge&logo=apachehadoop&logoColor=black) |
+| **Cloud & Infra** | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![RedHat OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white) |
+| **Tools & OS** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
 
 ---
 
 ### 🤖 Currently Exploring
-* **Agentic AI:** Building local sandboxes using **Docker**, **Colima**, and **Ollama**.
-* **Modern Tooling:** Moving toward a CLI-first workflow with high-performance, Rust-based tools like **uv**.
+* **Agentic AI & LLMs:** Building custom local sandboxes using **Docker**, **Colima**, and **Ollama** for AI experimentation.
+* **Modern Development Workflows:** Utilizing **Cursor** and CLI-first tools to accelerate engineering cycles.
 * **Hands-on Leadership:** Transitioning into Principal-level roles with a focus on deep technical execution and architectural strategy.
 
 ---
@@ -29,9 +29,10 @@ I am an **outcome-focused Solutions Architect** and **Customer Success leader** 
 ---
 
 ### 🚀 Key Professional Milestones
-* **Strategic Leadership:** Managed customer portfolios exceeding **$10M**, driving post-sales technical success.
-* **Automation Architect:** Developed UI-driven portals for self-service data ingestion and custom alerting frameworks that reduced noise by **80%**.
+* **Strategic Leadership:** Managed customer portfolios exceeding **$10M**, driving post-sales technical success and executive-level escalations.
+* **Automation Architect:** Developed UI-driven portals for self-service data ingestion and custom alerting frameworks that reduced pipeline noise by **80%**.
 * **Cloud Transformation:** Led large-scale migrations from on-prem Hadoop/Cassandra environments to Kubernetes-native cloud architectures.
+* **Code-Level Debugging:** Expert at diving into **Java** and **Python** codebases to resolve complex, high-impact technical issues.
 
 ---
 
